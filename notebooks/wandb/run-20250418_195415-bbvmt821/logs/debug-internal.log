@@ -1,0 +1,36 @@
+{"time":"2025-04-18T19:54:15.7221409+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"c:\\Users\\Krish\\OneDrive\\Desktop\\ResumeProjects\\Van-gogh-painting-identification\\notebooks\\wandb\\run-20250418_195415-bbvmt821\\logs\\debug-core.log"}
+{"time":"2025-04-18T19:54:16.2018962+05:30","level":"INFO","msg":"created new stream","id":"bbvmt821"}
+{"time":"2025-04-18T19:54:16.2018962+05:30","level":"INFO","msg":"stream: started","id":"bbvmt821"}
+{"time":"2025-04-18T19:54:16.2018962+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bbvmt821"}
+{"time":"2025-04-18T19:54:16.2018962+05:30","level":"INFO","msg":"handler: started","stream_id":"bbvmt821"}
+{"time":"2025-04-18T19:54:16.2018962+05:30","level":"INFO","msg":"sender: started","stream_id":"bbvmt821"}
+{"time":"2025-04-18T19:54:16.6288736+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:54:16.7928664+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:54:16.8039923+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:54:16.8804907+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:54:16.8900676+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:54:16.8918795+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:54:16.8997473+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:54:17.7261069+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:54:17.7339874+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T20:02:00.4811081+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T20:02:00.4983789+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T20:02:00.7761459+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T20:11:59.8878267+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T20:11:59.8893079+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T21:25:03.1276466+05:30","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/bhavinbathani90-/vangogh-v2/bbvmt821/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-04-18T23:47:36.2241303+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bhavinbathani90-/vangogh-v2/bbvmt821/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-19T09:44:11.5632124+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-04-19T09:44:11.5632124+05:30","level":"WARN","msg":"sender: taking a long time","seconds":35786.8758563,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"h2ox4q14umvm\" connection_id:\"127.0.0.1:55740\")"}
+{"time":"2025-04-19T09:44:30.4384451+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.29.103:58203->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-04-19T09:44:35.1108088+05:30","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":35810.4228592,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"h2ox4q14umvm\" connection_id:\"127.0.0.1:55740\")"}
+{"time":"2025-04-19T10:19:21.5965634+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T10:19:21.6112359+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T10:19:21.6112359+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T10:19:22.6187292+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3088931,"progress":"3.0KB/3.0KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3088931,"progress":"393.6KB/393.6KB"}],"total_operations":2}}
+{"time":"2025-04-19T10:19:24.1415838+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T10:19:24.7047957+05:30","level":"INFO","msg":"stream: closing","id":"bbvmt821"}
+{"time":"2025-04-19T10:19:24.7047957+05:30","level":"INFO","msg":"handler: closed","stream_id":"bbvmt821"}
+{"time":"2025-04-19T10:19:24.7047957+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bbvmt821"}
+{"time":"2025-04-19T10:19:24.7047957+05:30","level":"INFO","msg":"sender: closed","stream_id":"bbvmt821"}
+{"time":"2025-04-19T10:19:24.7053036+05:30","level":"INFO","msg":"stream: closed","id":"bbvmt821"}

@@ -1,0 +1,25 @@
+Epoch 1/15, Training Loss: 0.6818
+Epoch 2/15, Training Loss: 0.6349
+Epoch 3/15, Training Loss: 0.6355
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 4/15, Training Loss: 0.6277
+Epoch 5/15, Training Loss: 0.5997
+Epoch 6/15, Training Loss: 0.5871
+Epoch 7/15, Training Loss: 0.5846
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 8/15, Training Loss: 0.5830
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 9/15, Training Loss: 0.5813
+Epoch 10/15, Training Loss: 0.5802
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 11/15, Training Loss: 0.5801
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 12/15, Training Loss: 0.5799
+⚠️  No significant improvement for 3 epoch(s).
+Epoch 13/15, Training Loss: 0.5798
+⚠️  No significant improvement for 4 epoch(s).
+Epoch 14/15, Training Loss: 0.5798
+⚠️  No significant improvement for 5 epoch(s).
+⏹️  Early stopping triggered.
+✅ Final Accuracy: 0.6269
+✅ Final F1 Score: 0.4831

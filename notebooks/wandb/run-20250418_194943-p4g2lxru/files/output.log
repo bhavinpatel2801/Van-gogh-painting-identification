@@ -1,0 +1,33 @@
+Epoch 1/10, Training Loss: 0.9321
+Epoch 2/10, Training Loss: 0.6597
+Epoch 3/10, Training Loss: 0.6462
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 4/10, Training Loss: 0.6373
+Epoch 5/10, Training Loss: 0.6336
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 6/10, Training Loss: 0.6318
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 7/10, Training Loss: 0.6303
+⚠️  No significant improvement for 3 epoch(s).
+⏹️  Early stopping triggered.
+✅ Final Accuracy: 0.6269
+✅ Final F1 Score: 0.4831
+Basic CNN training completed.
+Epoch 1/10, Training Loss: 0.6461
+Epoch 2/10, Training Loss: 0.2212
+Epoch 3/10, Training Loss: 0.0871
+Epoch 4/10, Training Loss: 0.0219
+Epoch 5/10, Training Loss: 0.0244
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 6/10, Training Loss: 0.0099
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 7/10, Training Loss: 0.0078
+⚠️  No significant improvement for 3 epoch(s).
+⏹️  Early stopping triggered.
+✅ Final Accuracy: 0.8060
+✅ Final F1 Score: 0.8051
+Resnet18 training completed.
+Epoch 1/15, Training Loss: 0.6974
+Epoch 2/15, Training Loss: 0.5496
+Epoch 3/15, Training Loss: 0.4731
+Epoch 4/15, Training Loss: 0.4274

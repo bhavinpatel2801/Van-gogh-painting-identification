@@ -1,0 +1,16 @@
+{"time":"2025-04-19T10:28:00.4641697+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"c:\\Users\\Krish\\OneDrive\\Desktop\\ResumeProjects\\Van-gogh-painting-identification\\notebooks\\wandb\\run-20250419_102758-wlk01qdz\\logs\\debug-core.log"}
+{"time":"2025-04-19T10:28:00.9176693+05:30","level":"INFO","msg":"created new stream","id":"wlk01qdz"}
+{"time":"2025-04-19T10:28:00.9176693+05:30","level":"INFO","msg":"stream: started","id":"wlk01qdz"}
+{"time":"2025-04-19T10:28:00.9176693+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wlk01qdz"}
+{"time":"2025-04-19T10:28:00.9176693+05:30","level":"INFO","msg":"handler: started","stream_id":"wlk01qdz"}
+{"time":"2025-04-19T10:28:00.9176693+05:30","level":"INFO","msg":"sender: started","stream_id":"wlk01qdz"}
+{"time":"2025-04-19T10:28:01.2780287+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T10:28:01.4696802+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T10:28:01.4696802+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T10:28:01.5389212+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T10:28:01.5459095+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T10:28:01.5673382+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T10:28:01.5764909+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T10:28:02.3888855+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T10:28:02.4006465+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T10:28:38.6225736+05:30","level":"INFO","msg":"Pausing system monitor"}

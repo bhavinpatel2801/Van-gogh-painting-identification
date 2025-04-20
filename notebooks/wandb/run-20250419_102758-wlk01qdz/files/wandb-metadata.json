@@ -1,0 +1,44 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.12.7",
+  "startedAt": "2025-04-19T04:58:00.447138Z",
+  "program": "<python with no main file>",
+  "git": {
+    "remote": "https://github.com/bhavinpatel2801/Van-gogh-painting-identification.git",
+    "commit": "9893ed14b83fc8790190d7e1cfeb6d969817d13b"
+  },
+  "email": "bhavinbathani90@gmail.com",
+  "root": "c:\\Users\\Krish\\OneDrive\\Desktop\\ResumeProjects\\Van-gogh-painting-identification\\notebooks",
+  "host": "karma",
+  "executable": "c:\\Users\\Krish\\OneDrive\\Desktop\\ResumeProjects\\Van-gogh-painting-identification\\venv\\Scripts\\python.exe",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "gpu": "GeForce GT 730",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "999293972480",
+      "used": "637507424256"
+    }
+  },
+  "memory": {
+    "total": "34163638272"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 12
+  },
+  "gpu_nvidia": [
+    {
+      "name": "GeForce GT 730",
+      "memoryTotal": "2147483648",
+      "architecture": "Kepler"
+    },
+    {
+      "name": "GeForce GT 730",
+      "memoryTotal": "2147483648",
+      "architecture": "Kepler"
+    }
+  ],
+  "cudaVersion": "11.1"
+}

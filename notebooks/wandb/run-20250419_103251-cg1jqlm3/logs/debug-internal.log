@@ -1,0 +1,38 @@
+{"time":"2025-04-19T10:32:51.374851+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"c:\\Users\\Krish\\OneDrive\\Desktop\\ResumeProjects\\Van-gogh-painting-identification\\notebooks\\wandb\\run-20250419_103251-cg1jqlm3\\logs\\debug-core.log"}
+{"time":"2025-04-19T10:32:51.8606615+05:30","level":"INFO","msg":"created new stream","id":"cg1jqlm3"}
+{"time":"2025-04-19T10:32:51.8606615+05:30","level":"INFO","msg":"stream: started","id":"cg1jqlm3"}
+{"time":"2025-04-19T10:32:51.8616004+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cg1jqlm3"}
+{"time":"2025-04-19T10:32:51.8616004+05:30","level":"INFO","msg":"sender: started","stream_id":"cg1jqlm3"}
+{"time":"2025-04-19T10:32:51.8619104+05:30","level":"INFO","msg":"handler: started","stream_id":"cg1jqlm3"}
+{"time":"2025-04-19T10:32:52.2702468+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T10:32:52.4430445+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T10:32:52.4435828+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T10:32:52.5412634+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T10:32:52.5521544+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T10:32:52.5538082+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T10:32:52.5621331+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T10:32:53.3805512+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T10:32:53.3903518+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T10:40:53.9331185+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T10:40:53.9441295+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T10:40:53.9462184+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T10:40:53.954978+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T10:40:54.7946463+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T10:40:54.80598+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T10:40:54.8604229+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T10:40:54.8681085+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T10:40:58.8411578+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T10:40:58.8673375+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T19:08:26.3236156+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T19:08:26.3481372+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T19:08:26.4662195+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T19:08:26.4749054+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T19:08:26.479056+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T19:08:26.479056+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T19:08:27.4948311+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3034193,"progress":"5.3KB/5.3KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3034193,"progress":"1.1MB/1.3MB"}],"total_operations":2}}
+{"time":"2025-04-19T19:08:29.7466567+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T19:08:31.1273573+05:30","level":"INFO","msg":"stream: closing","id":"cg1jqlm3"}
+{"time":"2025-04-19T19:08:31.1273573+05:30","level":"INFO","msg":"handler: closed","stream_id":"cg1jqlm3"}
+{"time":"2025-04-19T19:08:31.1273573+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cg1jqlm3"}
+{"time":"2025-04-19T19:08:31.1273573+05:30","level":"INFO","msg":"sender: closed","stream_id":"cg1jqlm3"}
+{"time":"2025-04-19T19:08:31.1273573+05:30","level":"INFO","msg":"stream: closed","id":"cg1jqlm3"}

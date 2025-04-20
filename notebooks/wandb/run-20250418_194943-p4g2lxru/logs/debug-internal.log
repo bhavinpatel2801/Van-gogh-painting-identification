@@ -1,0 +1,7 @@
+{"time":"2025-04-18T19:49:46.7341265+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"c:\\Users\\Krish\\OneDrive\\Desktop\\ResumeProjects\\Van-gogh-painting-identification\\notebooks\\wandb\\run-20250418_194943-p4g2lxru\\logs\\debug-core.log"}
+{"time":"2025-04-18T19:49:47.2503977+05:30","level":"INFO","msg":"created new stream","id":"p4g2lxru"}
+{"time":"2025-04-18T19:49:47.2503977+05:30","level":"INFO","msg":"stream: started","id":"p4g2lxru"}
+{"time":"2025-04-18T19:49:47.2503977+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"p4g2lxru"}
+{"time":"2025-04-18T19:49:47.2503977+05:30","level":"INFO","msg":"handler: started","stream_id":"p4g2lxru"}
+{"time":"2025-04-18T19:49:47.250957+05:30","level":"INFO","msg":"sender: started","stream_id":"p4g2lxru"}
+{"time":"2025-04-18T19:49:47.6864141+05:30","level":"INFO","msg":"Starting system monitor"}

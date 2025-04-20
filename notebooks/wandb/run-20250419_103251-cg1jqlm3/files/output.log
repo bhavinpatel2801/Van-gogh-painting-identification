@@ -1,0 +1,146 @@
+Epoch 1/15, Training Loss: 0.7560
+Epoch 2/15, Training Loss: 0.6513
+Epoch 3/15, Training Loss: 0.6607
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 4/15, Training Loss: 0.6267
+Epoch 5/15, Training Loss: 0.6104
+Epoch 6/15, Training Loss: 0.6042
+Epoch 7/15, Training Loss: 0.5972
+Epoch 8/15, Training Loss: 0.5962
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 9/15, Training Loss: 0.5949
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 10/15, Training Loss: 0.5939
+⚠️  No significant improvement for 3 epoch(s).
+Epoch 11/15, Training Loss: 0.5938
+⚠️  No significant improvement for 4 epoch(s).
+Epoch 12/15, Training Loss: 0.5936
+⚠️  No significant improvement for 5 epoch(s).
+⏹️  Early stopping triggered.
+✅ Final Accuracy: 0.6716
+✅ Final F1 Score: 0.6083
+Basic CNN training completed.
+Epoch 1/15, Training Loss: 0.5418
+Epoch 2/15, Training Loss: 0.2254
+Epoch 3/15, Training Loss: 0.0746
+Epoch 4/15, Training Loss: 0.0149
+Epoch 5/15, Training Loss: 0.0292
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 6/15, Training Loss: 0.0155
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 7/15, Training Loss: 0.0365
+⚠️  No significant improvement for 3 epoch(s).
+Epoch 8/15, Training Loss: 0.0079
+Epoch 9/15, Training Loss: 0.0206
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 10/15, Training Loss: 0.0055
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 11/15, Training Loss: 0.0192
+⚠️  No significant improvement for 3 epoch(s).
+Epoch 12/15, Training Loss: 0.0065
+⚠️  No significant improvement for 4 epoch(s).
+Epoch 13/15, Training Loss: 0.0173
+⚠️  No significant improvement for 5 epoch(s).
+⏹️  Early stopping triggered.
+✅ Final Accuracy: 0.8507
+✅ Final F1 Score: 0.8494
+Resnet18 training completed.
+Epoch 1/15, Training Loss: 0.6849
+Epoch 2/15, Training Loss: 0.5434
+Epoch 3/15, Training Loss: 0.4685
+Epoch 4/15, Training Loss: 0.4295
+Epoch 5/15, Training Loss: 0.4241
+Epoch 6/15, Training Loss: 0.4198
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 7/15, Training Loss: 0.4156
+Epoch 8/15, Training Loss: 0.4152
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 9/15, Training Loss: 0.4147
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 10/15, Training Loss: 0.4144
+⚠️  No significant improvement for 3 epoch(s).
+Epoch 11/15, Training Loss: 0.4143
+⚠️  No significant improvement for 4 epoch(s).
+Epoch 12/15, Training Loss: 0.4143
+⚠️  No significant improvement for 5 epoch(s).
+⏹️  Early stopping triggered.
+✅ Final Accuracy: 0.7164
+✅ Final F1 Score: 0.6856
+ViT training completed.
+
+📌 Training RESNET...
+Epoch 1/15, Training Loss: 0.3546
+Epoch 2/15, Training Loss: 0.2877
+Epoch 3/15, Training Loss: 0.2408
+Epoch 4/15, Training Loss: 0.2390
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 5/15, Training Loss: 0.2397
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 6/15, Training Loss: 0.2318
+Epoch 7/15, Training Loss: 0.1879
+Epoch 8/15, Training Loss: 0.1625
+Epoch 9/15, Training Loss: 0.1592
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 10/15, Training Loss: 0.1402
+Epoch 11/15, Training Loss: 0.1520
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 12/15, Training Loss: 0.1287
+Epoch 13/15, Training Loss: 0.1154
+Epoch 14/15, Training Loss: 0.1224
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 15/15, Training Loss: 0.0892
+✅ Final F1 Score: 0.8893
+🎯 RESNET F1 Score: 0.8893
+
+📌 Training VGG...
+Epoch 1/15, Training Loss: 1.1885
+Epoch 2/15, Training Loss: 0.4356
+Epoch 3/15, Training Loss: 0.3470
+Epoch 4/15, Training Loss: 0.3163
+Epoch 5/15, Training Loss: 0.3724
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 6/15, Training Loss: 0.4194
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 7/15, Training Loss: 0.3662
+⚠️  No significant improvement for 3 epoch(s).
+Epoch 8/15, Training Loss: 0.2970
+Epoch 9/15, Training Loss: 0.2684
+Epoch 10/15, Training Loss: 1.3892
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 11/15, Training Loss: 0.5523
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 12/15, Training Loss: 0.6404
+⚠️  No significant improvement for 3 epoch(s).
+Epoch 13/15, Training Loss: 0.5791
+⚠️  No significant improvement for 4 epoch(s).
+Epoch 14/15, Training Loss: 0.7101
+⚠️  No significant improvement for 5 epoch(s).
+⏹️  Early stopping triggered.
+✅ Final F1 Score: 0.4831
+🎯 VGG F1 Score: 0.4831
+
+📌 Training EFFICIENTNET...
+Epoch 1/15, Training Loss: 0.2304
+Epoch 2/15, Training Loss: 0.1023
+Epoch 3/15, Training Loss: 0.0821
+Epoch 4/15, Training Loss: 0.0618
+Epoch 5/15, Training Loss: 0.0681
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 6/15, Training Loss: 0.0549
+Epoch 7/15, Training Loss: 0.0399
+Epoch 8/15, Training Loss: 0.0347
+Epoch 9/15, Training Loss: 0.0295
+Epoch 10/15, Training Loss: 0.0234
+Epoch 11/15, Training Loss: 0.0075
+Epoch 12/15, Training Loss: 0.0226
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 13/15, Training Loss: 0.0308
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 14/15, Training Loss: 0.0341
+⚠️  No significant improvement for 3 epoch(s).
+Epoch 15/15, Training Loss: 0.0143
+⚠️  No significant improvement for 4 epoch(s).
+✅ Final F1 Score: 0.9003
+🎯 EFFICIENTNET F1 Score: 0.9003
+
+🏆 Best model: EFFICIENTNET with F1 Score 0.9003

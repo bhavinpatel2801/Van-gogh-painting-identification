@@ -1,0 +1,24 @@
+{"time":"2025-04-20T10:38:07.2257355+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"c:\\Users\\Krish\\OneDrive\\Desktop\\ResumeProjects\\Van-gogh-painting-identification\\notebooks\\wandb\\run-20250420_103807-tovkwyvp\\logs\\debug-core.log"}
+{"time":"2025-04-20T10:38:07.8502797+05:30","level":"INFO","msg":"created new stream","id":"tovkwyvp"}
+{"time":"2025-04-20T10:38:07.8502797+05:30","level":"INFO","msg":"stream: started","id":"tovkwyvp"}
+{"time":"2025-04-20T10:38:07.8502797+05:30","level":"INFO","msg":"sender: started","stream_id":"tovkwyvp"}
+{"time":"2025-04-20T10:38:07.8502797+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tovkwyvp"}
+{"time":"2025-04-20T10:38:07.8502797+05:30","level":"INFO","msg":"handler: started","stream_id":"tovkwyvp"}
+{"time":"2025-04-20T10:38:08.229058+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-20T10:38:08.4034897+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T10:38:10.1218457+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T10:38:10.3239522+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T10:38:12.8045886+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T10:38:12.8059941+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T10:38:15.2543022+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T10:38:16.2044726+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T10:38:19.6233542+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T10:46:55.3362643+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T10:46:55.3516031+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T10:46:55.353692+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T10:46:55.3693736+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T10:46:56.2647266+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T10:46:56.2802936+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T10:46:56.3281895+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T10:57:16.2032793+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T10:57:16.2074413+05:30","level":"INFO","msg":"Pausing system monitor"}

@@ -1,0 +1,78 @@
+Epoch 1/15, Training Loss: 0.9760
+Epoch 2/15, Training Loss: 0.6741
+Epoch 3/15, Training Loss: 0.6548
+Epoch 4/15, Training Loss: 0.6743
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 5/15, Training Loss: 0.6544
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 6/15, Training Loss: 0.6486
+Epoch 7/15, Training Loss: 0.6447
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 8/15, Training Loss: 0.6443
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 9/15, Training Loss: 0.6437
+⚠️  No significant improvement for 3 epoch(s).
+Epoch 10/15, Training Loss: 0.6432
+Epoch 11/15, Training Loss: 0.6432
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 12/15, Training Loss: 0.6431
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 13/15, Training Loss: 0.6431
+⚠️  No significant improvement for 3 epoch(s).
+Epoch 14/15, Training Loss: 0.6431
+⚠️  No significant improvement for 4 epoch(s).
+Epoch 15/15, Training Loss: 0.6431
+⚠️  No significant improvement for 5 epoch(s).
+⏹️  Early stopping triggered.
+✅ Final Accuracy: 0.6269
+✅ Final F1 Score: 0.4831
+Basic CNN training completed.
+Epoch 1/15, Training Loss: 0.6014
+Epoch 2/15, Training Loss: 0.3285
+Epoch 3/15, Training Loss: 0.0672
+Epoch 4/15, Training Loss: 0.0695
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 5/15, Training Loss: 0.0525
+Epoch 6/15, Training Loss: 0.0464
+Epoch 7/15, Training Loss: 0.0359
+Epoch 8/15, Training Loss: 0.0476
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 9/15, Training Loss: 0.0359
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 10/15, Training Loss: 0.0258
+Epoch 11/15, Training Loss: 0.0657
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 12/15, Training Loss: 0.0427
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 13/15, Training Loss: 0.0665
+⚠️  No significant improvement for 3 epoch(s).
+Epoch 14/15, Training Loss: 0.0342
+⚠️  No significant improvement for 4 epoch(s).
+Epoch 15/15, Training Loss: 0.0361
+⚠️  No significant improvement for 5 epoch(s).
+⏹️  Early stopping triggered.
+✅ Final Accuracy: 0.8657
+✅ Final F1 Score: 0.8662
+Resnet18 training completed.
+Epoch 1/15, Training Loss: 0.6964
+Epoch 2/15, Training Loss: 0.5513
+Epoch 3/15, Training Loss: 0.4691
+Epoch 4/15, Training Loss: 0.4251
+Epoch 5/15, Training Loss: 0.4207
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 6/15, Training Loss: 0.4158
+Epoch 7/15, Training Loss: 0.4124
+⚠️  No significant improvement for 1 epoch(s).
+Epoch 8/15, Training Loss: 0.4120
+⚠️  No significant improvement for 2 epoch(s).
+Epoch 9/15, Training Loss: 0.4115
+⚠️  No significant improvement for 3 epoch(s).
+Epoch 10/15, Training Loss: 0.4112
+⚠️  No significant improvement for 4 epoch(s).
+Epoch 11/15, Training Loss: 0.4112
+⚠️  No significant improvement for 5 epoch(s).
+⏹️  Early stopping triggered.
+✅ Final Accuracy: 0.7761
+✅ Final F1 Score: 0.7575
+ViT training completed.
+wandb: WARNING Calling wandb.login() after wandb.init() has no effect.

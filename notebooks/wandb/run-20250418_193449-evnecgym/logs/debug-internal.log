@@ -1,0 +1,34 @@
+{"time":"2025-04-18T19:34:49.7323226+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"c:\\Users\\Krish\\OneDrive\\Desktop\\ResumeProjects\\Van-gogh-painting-identification\\notebooks\\wandb\\run-20250418_193449-evnecgym\\logs\\debug-core.log"}
+{"time":"2025-04-18T19:34:50.3682798+05:30","level":"INFO","msg":"created new stream","id":"evnecgym"}
+{"time":"2025-04-18T19:34:50.3682798+05:30","level":"INFO","msg":"stream: started","id":"evnecgym"}
+{"time":"2025-04-18T19:34:50.3682798+05:30","level":"INFO","msg":"handler: started","stream_id":"evnecgym"}
+{"time":"2025-04-18T19:34:50.3682798+05:30","level":"INFO","msg":"sender: started","stream_id":"evnecgym"}
+{"time":"2025-04-18T19:34:50.3682798+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"evnecgym"}
+{"time":"2025-04-18T19:34:50.9500064+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T19:34:51.1756706+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:34:51.1999678+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:34:51.4251977+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:34:51.4422337+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:34:51.444767+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:34:51.4654466+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:34:52.6958562+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:34:52.7286022+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:34:52.7393808+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:37:57.4349887+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:37:57.439095+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:37:57.4582215+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:37:57.4622575+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:38:13.8517805+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:38:13.8558809+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:38:59.8194745+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:43:34.7693673+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-18T19:49:43.9427043+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-18T19:49:43.9597426+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T19:49:43.9597426+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T19:49:44.9795252+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.302261,"progress":"1.9KB/1.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.302261,"progress":"513B/513B"}],"total_operations":2}}
+{"time":"2025-04-18T19:49:46.3030434+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-18T19:49:46.7156944+05:30","level":"INFO","msg":"stream: closing","id":"evnecgym"}
+{"time":"2025-04-18T19:49:46.7156944+05:30","level":"INFO","msg":"handler: closed","stream_id":"evnecgym"}
+{"time":"2025-04-18T19:49:46.7156944+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"evnecgym"}
+{"time":"2025-04-18T19:49:46.7156944+05:30","level":"INFO","msg":"sender: closed","stream_id":"evnecgym"}
+{"time":"2025-04-18T19:49:46.7162072+05:30","level":"INFO","msg":"stream: closed","id":"evnecgym"}
