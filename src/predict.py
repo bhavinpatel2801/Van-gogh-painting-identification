@@ -167,8 +167,11 @@ def load_best_models(model_dir="../models"):
     return model_full, best_full_model_path, model_patch, best_patch_model_path
 
 def predict_from_ensemble(image_path, model_full, best_full_model_path, model_patch, best_patch_model_path):
-    # === 1. Load the image from the given path and ensure it's in RGB format ===
-    image = Image.open(image_path).convert('RGB')
+     # === 1. Handle both string path and in-memory image ===
+    if isinstance(image, str):
+        image = Image.open(image).convert("RGB")
+    else:
+        image = image.convert("RGB")  # if already PIL.Image from Streamlit or upload
 
     # === 2. Organize models and their respective paths using dictionaries ===
     models = {"full": model_full, "patch": model_patch}
